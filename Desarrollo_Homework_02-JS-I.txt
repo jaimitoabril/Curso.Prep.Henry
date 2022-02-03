@@ -1,0 +1,10 @@
+
+    Variables: es un tipo de datos donde se guarda una informacion como es variable esta informacion puede ir cambiando.
+
+    Strings: es un tipo de dato que guarda una cadena de caracteres.
+
+    Funciones (argumentos, return): funciones son una secuencia de lineas de codigo con unas ordenes para hacer una tarea especifica.
+
+    Declaraciones if: son comandos de condicionalidad que hacen que una tarea se realice dependiendo que cumpla unas condiciones.
+
+    Valores booleanos (true, false): son condiciones que solo pueden ser falso o verdadero.
