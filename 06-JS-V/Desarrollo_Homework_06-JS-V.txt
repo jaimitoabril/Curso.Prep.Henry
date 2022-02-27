@@ -1,0 +1,9 @@
+
+
+    En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+    prototype: palabra clave de mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+    Constructors (de Clases): es un método especial que se ejecuta cuando creamos un objeto. Cuando lo declaramos, la diferencia con los métodos normales, es que no lleva tipo de retorno y su nombre es el mismo que el de la clase
+
+
+
